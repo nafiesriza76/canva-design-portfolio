@@ -24,7 +24,7 @@ I'm Nafies, a designer from Malaysia creating modern and versatile Canva templat
 ![Pastel Purple Meeting Invite](pastel.png)
 
 ## 🧾 Induction Program Design
-![Induction Poster](induction.png)
+![Induction Poster](INDUCTION.png)
 
 ## 📚 Research & Academia Poster
 ![Research Poster](research.png)

@@ -6,16 +6,16 @@ I'm Nafies, a designer from Malaysia creating modern and versatile Canva templat
 ## My Sample Designs
 
 ### 🎓 Event Poster
-![Audiology & Speech Students Society](AUDIOLOGY & SPEECH STUDENTS’S SOCIETY.png)
+![Audiology & Speech Students Society](audiology.png)
 
 ### 📊 Marketing Flyer
-![G8 Market Survey](G8 Market Survey.png)
+![G8 Market Survey](G8MarketSurvey.png)
 
 ### 🤖 Tech Design
 ![GenAI Poster](GenAi.png)
 
 ### 🌙 Raya Celebration Slide
-![Slide Backdrop Raya](Slide Backdrop Raya.png)
+![Slide Backdrop Raya](SlideBackdropRaya.png)
 
 ### 🖤 Instagram Promotion Post
-![Black Friday Post](White Modern Black Friday Discount Instagram.png)
+![Black Friday Post](blackfriday.png)
